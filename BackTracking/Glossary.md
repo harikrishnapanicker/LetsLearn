@@ -1,112 +1,34 @@
-# Popular Algorithms
+## 🪜 Beginner-Friendly Backtracking Ladder
 
-## 🔁 Recursion and Backtracking
-
-- Backtracking
-- Recursion
-- Subset / Subset Sum Problems
+### 1. Subset Generation
+👉 *Given an array, return all subsets (power set).*  
+Simple recursion & choice-making.
 
 ---
 
-## 🔄 Dynamic Programming (DP)
-
-- 0/1 Knapsack
-- Longest Common Subsequence (LCS) / Longest Palindromic Subsequence
-- Longest Increasing Subsequence (LIS)
-- Matrix DP (e.g., Unique Paths, Minimum Path Sum)
-- Coin Change / Ways to make change
-- Edit Distance
-- House Robber, Climbing Stairs
-- DP on Trees and Graphs
+### 2. Permutations of a String or Array
+👉 *Return all permutations of `"abc"` or `[1, 2, 3]`.*  
+Introduces swapping & `used[]` arrays.
 
 ---
 
-## 🔁 Greedy Algorithms
-
-- Activity Selection
-- Huffman Coding
-- Interval Scheduling / Merge Intervals
-- Job Sequencing
-- Fractional Knapsack
-- Jump Game
+### 3. Combination Sum I
+👉 *Choose numbers to sum up to a target (with reuse).*  
+Helps you manage choices & pruning.
 
 ---
 
-## 📊 Graph Algorithms
-
-- Depth-First Search (DFS)
-- Breadth-First Search (BFS)
-- Dijkstra's Algorithm
-- Bellman-Ford Algorithm
-- Floyd-Warshall Algorithm
-- Topological Sort (Kahn’s / DFS-based)
-- Union-Find (Disjoint Set Union - DSU)
-- Kruskal’s and Prim’s Algorithms (MST)
+### 4. Letter Combinations of a Phone Number
+👉 *Classic mapping like T9 keypad → generate letter combos.*  
+Recursive branching based on digit mapping.
 
 ---
 
-## 🧩 Divide and Conquer
-
-- Merge Sort / Quick Sort
-- Binary Search
-- Majority Element (Moore’s Voting, Divide & Conquer)
-- Closest Pair of Points
+### 5. Rat in a Maze
+👉 *Move in a 2D grid, find all paths from top-left to bottom-right.*  
+Foundation for N-Queens / Maze-solving later.
 
 ---
 
-## 🌲 Tree & BST Based
-
-- Lowest Common Ancestor (LCA)
-- Binary Tree Traversals (Inorder, Preorder, Postorder)
-- Serialize and Deserialize Binary Tree
-- Balanced Tree Check
-- BST to DLL / Flatten Tree
-- Kth Smallest / Largest in BST
-
----
-
-## 🧮 Mathematical Algorithms
-
-- Sieve of Eratosthenes
-- GCD (Euclidean Algorithm)
-- Modular Exponentiation
-- Matrix Exponentiation
-- Number of trailing zeros / Prime factors
-
----
-
-## 🧠 Bit Manipulation
-
-- Single Number / Missing Number
-- XOR Problems
-- Count set bits
-- Subset generation using bits
-
----
-
-## 🧵 Sliding Window / Two Pointers
-
-- Maximum Sum Subarray (Kadane's)
-- Longest Substring with K Unique Characters
-- Minimum Window Substring
-- Container With Most Water
-- Trapping Rain Water
-
----
-
-## 🗃️ Heap / Priority Queue
-
-- Top K Frequent Elements
-- Median of Data Stream
-- Merge K Sorted Lists / Arrays
-- Sliding Window Maximum
-
----
-
-## 🔠 String Algorithms
-
-- KMP Algorithm
-- Rabin-Karp (Hashing)
-- Z-Algorithm
-- Manacher’s Algorithm (Longest Palindromic Substring)
-- Anagram Groups / String Isomorphism
+### 6. N-Queens (Finally)
+👉 *With confidence from the above, you’ll crack it easily.*
