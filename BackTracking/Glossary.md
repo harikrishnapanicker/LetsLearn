@@ -1,6 +1,6 @@
 ## 🪜 Beginner-Friendly Backtracking Ladder
 
-### 1. Subset Generation
+### 1. [Subset Generation](https://github.com/harikrishnapanicker/LetsLearn/blob/main/BackTracking/SubsetGeneration.java)
 👉 *Given an array, return all subsets (power set).*  
 Simple recursion & choice-making.
 
