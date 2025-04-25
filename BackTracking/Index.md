@@ -30,5 +30,5 @@ Foundation for N-Queens / Maze-solving later.
 
 ---
 
-### 6. N-Queens (Finally)
+### 6. N-Queens
 👉 *With confidence from the above, you’ll crack it easily.*
