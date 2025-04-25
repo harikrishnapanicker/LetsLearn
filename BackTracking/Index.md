@@ -6,7 +6,7 @@ Simple recursion & choice-making.
 
 ---
 
-### 2. Permutations of a String or Array
+### 2. [Permutations of a String or Array](https://github.com/harikrishnapanicker/LetsLearn/blob/main/BackTracking/Permutations.java)
 👉 *Return all permutations of `"abc"` or `[1, 2, 3]`.*  
 Introduces swapping & `used[]` arrays.
 
