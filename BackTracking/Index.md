@@ -12,7 +12,7 @@ Introduces swapping & `used[]` arrays.
 
 ---
 
-### 3. Combination Sum I
+### 3. [Combination Sum I](https://github.com/harikrishnapanicker/LetsLearn/blob/main/BackTracking/CombinationSum.java)
 👉 *Choose numbers to sum up to a target (with reuse).*  
 Helps you manage choices & pruning.
 
