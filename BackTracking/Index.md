@@ -24,7 +24,7 @@ Recursive branching based on digit mapping.
 
 ---
 
-### 5. Rat in a Maze
+### 5. [Rat in a Maze](https://github.com/harikrishnapanicker/LetsLearn/blob/main/BackTracking/RatMaze.java)
 👉 *Move in a 2D grid, find all paths from top-left to bottom-right.*  
 Foundation for N-Queens / Maze-solving later.
 
