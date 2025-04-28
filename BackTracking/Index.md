@@ -1,6 +1,6 @@
 ## 🪜 Beginner-Friendly Backtracking Ladder
 
-### 1. Generate all binary strings of length n
+### 1. [Generate all binary strings of length n](https://github.com/harikrishnapanicker/LetsLearn/blob/main/BackTracking/AllBinaryStrings.java)
 👉 Example for n = 2 → [ "00", "01", "10", "11" ]
 
 ---
