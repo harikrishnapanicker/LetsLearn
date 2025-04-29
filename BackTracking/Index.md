@@ -5,7 +5,7 @@
 
 ---
 
-### 2. Generate all valid parentheses combinations for n pairs
+### 2. [Generate all valid parentheses combinations for n pairs](https://github.com/harikrishnapanicker/LetsLearn/blob/main/BackTracking/ValidParantheses.java)
 👉 Example for n = 2 → [ "(())", "()()" ]
 
 ---
