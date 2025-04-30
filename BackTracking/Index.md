@@ -10,7 +10,7 @@
 
 ---
 
-### 3. Subset sum problem
+### 3. [Subset sum problem](https://github.com/harikrishnapanicker/LetsLearn/blob/main/BackTracking/SubSetProblem.java)
 👉 (Find all subsets whose sum equals a target.)
 
 ---
