@@ -20,7 +20,7 @@
 
 ---
 
-### 5. Word Search in a matrix
+### 5. [Word Search in a matrix](https://github.com/harikrishnapanicker/LetsLearn/blob/main/BackTracking/WordSearchIn2dMatrix.java)
 👉 (Very beginner-friendly.)
 
 ---
